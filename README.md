@@ -1,4 +1,3 @@
-"# DeepLearning-ANN-CIFAR10-MNIST" 
 # Deep Learning - ANN on MNIST & Image Classification on CIFAR-10
 
 This repository contains deep learning projects utilizing **Artificial Neural Networks (ANN)**. It includes:  
@@ -25,8 +24,7 @@ This repository contains deep learning projects utilizing **Artificial Neural Ne
 - Matplotlib, Seaborn  
 
 ## 📌 How to Run
-Clone the repository:  
-```bash
-git clone https://github.com/Mallikarjun-B-Patil/DeepLearning-ANN-CIFAR10-MNIST.git
-cd DeepLearning-ANN-CIFAR10-MNIST
-
+Clone the repository:
+   ```bash
+   git clone https://github.com/Mallikarjun-B-Patil/DeepLearning-ANN-CIFAR10-MNIST.git
+   ```

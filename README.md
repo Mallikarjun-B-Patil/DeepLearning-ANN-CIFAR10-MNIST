@@ -15,6 +15,7 @@ This repository contains deep learning projects utilizing **Artificial Neural Ne
 
 ## 📸 Visualization Snapshot
 ![Image Classification](Image_Classification.png)
+
 ![Pixel Identification](Pixel_identification.png)
 
 ## 🚀 Technologies Used
